@@ -1,5 +1,5 @@
 
--- GameShark Compatibility 0.4.0
+-- GameShark Compatibility 1.0.0
 -- Built against Gen1Recomp 0.1.47's public mod API.
 
 local MAIN_SCREEN = "GameSharkCompat"
