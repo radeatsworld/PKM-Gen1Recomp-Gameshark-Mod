@@ -19,7 +19,8 @@ return {
   },
   credits = {
     { who = "bryanthaboi/gen1recomp", for_ = "engine and mod API" },
-    { who = "GameShark code-list publishers supplied by the user", for_ = "reference codes" }
-  },
-  compat = { engine = ">=0.1.47 <0.2.0", modApi = 2 },
+    { who = "GameShark code-list publishers supplied by the user", for_ = "reference codes" },
+    { who = "radeatsworld", for_ = "PKM-Gen1Recomp-Gameshark-Mod Update" } 
+},
+  compat = { engine = ">=0.1.47 <0.2.9", modApi = 2 },
 }
