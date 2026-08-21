@@ -1,6 +1,6 @@
-# GameShark Compatibility 0.4.0
+# GameShark Compatibility 1.0.0
 
-Built for **Gen1Recomp 0.1.47**.
+Built for **Gen1Recomp 0.1.47 - 0.2.5**
 
 ## Use Surfboard
 
@@ -14,7 +14,7 @@ Turn on **STEAL TRAINER** (`010157D0`) before or during a trainer battle, then t
 
 Walk Through Walls, No Random Battles, item and money cheats, HP, badges, One-Hit KO, Burn, Safari cheats, and selectable wild Pokémon encounters.
 
-# GameShark Compatibility 0.2.0
+# GameShark Compatibility 0.2.5
 
 This version is built specifically against **Gen1Recomp 0.1.47** and replaces all guessed hooks with hooks confirmed in that release.
 
@@ -40,7 +40,7 @@ Delete every older GameShark mod folder first. Copy this folder directly into `m
 
 ```text
 mods/
-  gen1recomp_gameshark_v0.2.0/
+  gen1recomp_gameshark_v0.2.5/
     manifest.json
     main.lua
     mod.card
